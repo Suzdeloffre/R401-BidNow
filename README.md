@@ -53,5 +53,3 @@ L'application est accessible sur `http://localhost:5173`.
 - **Rate-limit** sur `'place-bid'` côté serveur (1 mise / seconde / utilisateur) pour éviter le spam.
 
 ---
-
-*Bon courage ! 🔨*
